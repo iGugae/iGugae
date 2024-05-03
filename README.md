@@ -1,6 +1,7 @@
-- 👋 Olá, eu sou o @iGugae, mas me chamo Gustavo Eguchi.
-- Atualmente estou cursando Análise e Desenvolvimento de Sistemas. 
-- Por enquanto tive contato com as linguagens: C e Python, básico de ambas.
+# **Minha bio**
+- 👋 Olá, eu sou o @iGugae, mas me chamo **Gustavo Eguchi**.
+- Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. 
+- Por enquanto tive contato com as linguagens: **C** e **Python**, básico de ambas.
 - Procuro me desenvolver na área e conseguir um estágio e um emprego, quero seguir carreira na área de tecnologia.
 - Até o momento só tive contato com o back-end, mas tenho muita curiosidade em aprender o front também, ainda não decidi qual caminho vou seguir.
 - Tive meu primeiro contato com programação dentro da Universidade Federal do Rio Grande do Sul, onde descobri que admiro e gosto da área.
