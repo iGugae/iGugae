@@ -9,6 +9,13 @@
 - Vou postando todos os códigos que eu for realizando, a fim de deixar toda a minha trajetória registrada.
 
 
+
+ 
+
+
+
+
+
 <!---
 iGugae/iGugae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
