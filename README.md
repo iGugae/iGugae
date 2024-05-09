@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGugae&layout=compact&theme=one_dark_pro&locale=pt-br)
 
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
 ##
 ### IDE utilizada
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
