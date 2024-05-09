@@ -11,7 +11,7 @@
   
 ##
 ### Estatísticas
-
+![Gugae's GitHub stats](https://github-readme-stats.vercel.app/api?username=iGugae&show_icons=true&theme=one_dark_pro&hide_rank=true&locale=pt-br&hide=prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGugae&layout=compact&theme=one_dark_pro&locale=pt-br)
 
