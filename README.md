@@ -17,6 +17,7 @@
 
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
 ##
 ### IDE utilizada
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
