@@ -16,9 +16,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iGugae&layout=compact&theme=one_dark_pro&locale=pt-br)
 
-![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-1240AB.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-151569?style=for-the-badge&logo=python&logoColor=FFFF00)
+![HTML5](https://img.shields.io/badge/HTML5-FF0007?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1A5FFF.svg?style=for-the-badge&logo=css3&logoColor=white)
 ##
 ### IDE utilizada
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
